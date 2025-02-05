@@ -16,3 +16,4 @@ __In addition to these notes, there are three different models that are looked a
 
 _Comment out 2 of the 3 at any given run to make sure you are only using one approach at a time_
 
+## The spam detection (1) file is more recent and fixes the delimeter of "//" to be able to correctly classify emails.
